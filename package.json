@@ -1,0 +1,38 @@
+{
+  "name": "unchain",
+  "version": "0.0.0",
+  "description": "Synchronous function chaining with delay support.",
+  "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh)",
+  "license": "MIT",
+  "repository": "ngryman/unchain",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint *.js",
+    "spec": "mocha test.js",
+    "test": "npm run lint && npm run spec",
+    "watch": "onchange *.js -- npm test"
+  },
+  "keywords": [
+    "chain",
+    "chaining",
+    "queue",
+    "pipeline",
+    "delay",
+    "function",
+    "sync",
+    "synchronous"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "eslint": "^0.24.0",
+    "eslint-config-ngryman": "^0.2.0",
+    "mocha": "^2.2.5",
+    "onchange": "^1.1.0",
+    "sinon": "^1.15.4",
+    "sinon-chai": "^2.8.0"
+  }
+}
