@@ -1,5 +1,5 @@
 /*eslint-env mocha */
-/*global expect:true */
+/*eslint-disable padded-blocks, no-unused-expressions */
 
 'use strict'
 
