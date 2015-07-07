@@ -33,7 +33,7 @@ chain([foo, bar])()
 //=> foo bar
 
 // delay some functions
-defaults(foo, 100, bar, 200, baz)
+chain(foo, 100, bar, 200, baz)
 //=> foo bar (100ms later) baz (200ms later)
 ```
 
