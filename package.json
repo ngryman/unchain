@@ -6,6 +6,9 @@
   "license": "MIT",
   "repository": "ngryman/unchain",
   "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
   "files": [
     "index.js"
   ],
