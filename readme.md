@@ -1,4 +1,4 @@
-# simulator [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
+# unchain [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
 
 [npm-image]: https://img.shields.io/npm/v/unchain.svg?style=flat
 [npm-url]: https://npmjs.org/package/unchain
