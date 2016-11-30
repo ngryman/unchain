@@ -1,6 +1,6 @@
 {
   "name": "unchain",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Synchronous function chaining with delay support.",
   "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh)",
   "license": "MIT",
