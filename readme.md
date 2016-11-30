@@ -1,7 +1,5 @@
 # unchain [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
 
-[npm-image]: https://img.shields.io/npm/v/unchain.svg?style=flat
-[npm-url]: https://npmjs.org/package/unchain
 [travis-image]: https://img.shields.io/travis/ngryman/unchain.svg?style=flat
 [travis-url]: https://travis-ci.org/ngryman/unchain
 
