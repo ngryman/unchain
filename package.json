@@ -27,12 +27,12 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "chai": "^3.0.0",
-    "eslint": "^0.24.0",
-    "eslint-config-ngryman": "^0.2.0",
-    "mocha": "^2.2.5",
-    "onchange": "^1.1.0",
-    "sinon": "^1.15.4",
+    "chai": "^3.5.0",
+    "eslint": "^3.11.1",
+    "eslint-config-ngryman": "^1.7.1",
+    "mocha": "^3.2.0",
+    "onchange": "^3.0.2",
+    "sinon": "^1.17.6",
     "sinon-chai": "^2.8.0"
   }
 }

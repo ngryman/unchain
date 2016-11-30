@@ -1,7 +1,3 @@
 {
-  "extends": "ngryman",
-
-  "env": {
-    "node": true
-  }
+  "extends": "ngryman"
 }
