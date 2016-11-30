@@ -1,4 +1,4 @@
-# unchain [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
+# unchain [![travis][travis-image]][travis-url]
 
 [travis-image]: https://img.shields.io/travis/ngryman/unchain.svg?style=flat
 [travis-url]: https://travis-ci.org/ngryman/unchain
