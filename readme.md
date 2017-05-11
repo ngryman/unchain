@@ -1,5 +1,7 @@
 # unchain [![travis][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/unchain.svg)](https://greenkeeper.io/)
+
 [travis-image]: https://img.shields.io/travis/ngryman/unchain.svg?style=flat
 [travis-url]: https://travis-ci.org/ngryman/unchain
 
