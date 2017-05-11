@@ -35,7 +35,7 @@
     "eslint-config-ngryman": "^1.7.1",
     "mocha": "^3.2.0",
     "onchange": "^3.0.2",
-    "sinon": "^1.17.6",
+    "sinon": "^2.2.0",
     "sinon-chai": "^2.8.0"
   }
 }
